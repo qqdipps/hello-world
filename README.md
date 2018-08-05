@@ -3,7 +3,8 @@ Hello, world! My first repository...
 
 Coding and programming is **exhilarating**. 
 ## I've taught my self python and in process of learning Java. 
-#### Next up: HTML, CSS, JavaScript, React, Ruby, RubyonRails  
+# update: ruby in progress, rails soon to follow
+#### Next up: HTML, CSS, JavaScript, React, ~Ruby, RubyonRails~  
 
 I'm new to the field, but
 # WOWza its _amazing_!!!!   

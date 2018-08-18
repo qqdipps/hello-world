@@ -2,8 +2,8 @@
 Hello, world! My first repository...
 
 Coding and programming is **exhilarating**. 
-## I've taught my self python and in process of learning Java. 
-# update: ruby in progress, rails soon to follow
+## I've taught my self python and in process of learning Java -> studying for OCAJP and taking night class. 
+# update: ruby in progress -> solving easy coding challenges, rails in progress -> building blog
 #### Next up: HTML, CSS, JavaScript, React, ~Ruby, RubyonRails~  
 
 I'm new to the field, but
@@ -19,8 +19,8 @@ Learning new things can be intimidating,
     feelings of joy & empowerment reside!
     
 I am working on:  
-* file management  
-* not only using web IDEs
+* file management -- current project committing as I go and using github for file managment of recent projects
+* not only using web IDEs-- yes now using eclipse for java and text editor sublime and iTerm2 w/ zsh
 * code structure and design patterns
-* data science
+* data / computer science -- learned about binary searching and how to compare alogrithms (thanks geeks for geeks), focusing on data structures and algorithms, and solving easy [coding challenges](hackerrank.com)
     

@@ -22,5 +22,5 @@ I am working on:
 * file management -- current project committing as I go and using github for file managment of recent projects
 * not only using web IDEs-- yes now using eclipse for java and text editor sublime and iTerm2 w/ zsh
 * code structure and design patterns
-* data / computer science -- learned about binary searching and how to compare alogrithms (thanks geeks for geeks), focusing on data structures and algorithms, and solving easy [coding challenges](hackerrank.com)
+* data / computer science -- learned about binary searching and how to compare alogrithms (thanks geeks for geeks), focusing on data structures and algorithms, and solving easy [coding challenges](https://www.hackerrank.com)
     

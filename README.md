@@ -4,6 +4,7 @@ Hello, world! My first repository...
 Coding and programming is **exhilarating**. 
 ## I've taught my self python and in process of learning Java -> studying for OCAJP and taking night class. 
 # update: ruby in progress -> solving easy coding challenges, rails in progress -> building blog
+ - Recently learned to write database queries using Google Visualisation API query language. I can apply this knowledge to SQLite which is used in ROR apps.
 #### Next up: HTML, CSS, JavaScript, React, ~Ruby, RubyonRails~  
 
 I'm new to the field, but

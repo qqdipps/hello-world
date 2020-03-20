@@ -30,3 +30,6 @@ I am working on:
 * data / computer science -- learned about binary searching and how to compare alogrithms (thanks geeks for geeks), focusing on data structures and algorithms, and solving easy [coding challenges](https://www.hackerrank.com) 
     - Studying data structures by drawing out the solutions then wrting out the code. Now I can study anywhere with just pen and paper! :)
     
+    
+  Ada changed my life, but the application process is very stressful. Here's to you ->   https://drive.google.com/folderview?id=10jaip4yI3i7OAZRkRfYD94Rmy_dq24Tz
+
